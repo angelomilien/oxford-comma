@@ -16,8 +16,6 @@ def oxford_comma(array)
    elsif array.length == 7
     array[6] = "and pomelos"
     array.join(", ")
-   end
-
-   
+   end 
 end
 
